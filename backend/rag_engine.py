@@ -62,6 +62,6 @@ Call emergency services immediately (911/999/000) and seek professional medical 
         if distance < self.similarity_threshold:
             prompt = self.build_rag_prompt(context, user_query)
         else:
-            prompt = self.build_fallback_prompt(user_query)
+             prompt = self.build_safety_warning_prompt(user_query)
 
         return self.llm.generate_answer(prompt)
