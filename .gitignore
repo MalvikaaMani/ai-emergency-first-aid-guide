@@ -1,0 +1,14 @@
+# Python environment
+myenv/
+__pycache__/
+*.pyc
+
+# Vector store (Faiss/Numpy)
+vector_store/
+
+# Streamlit cache
+.streamlit/
+
+# Sensitive/Large Model files
+*.bin
+*.npy
