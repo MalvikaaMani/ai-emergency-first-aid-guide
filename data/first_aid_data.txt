@@ -1,0 +1,147 @@
+Scenario: Heavy Bleeding
+Description: A person is bleeding heavily due to a cut or wound.
+Steps:
+1. Ensure your own safety first (use gloves or a barrier if available).
+2. Call emergency medical services immediately (911/999/000).
+3. Apply firm, direct, continuous pressure to the wound with a clean cloth or sterile dressing.
+4. If blood soaks through, do not remove the cloth; add another layer or pad and maintain pressure.
+5. If the person appears pale, cold, or weak (signs of shock), lay them flat and raise their feet about 12 inches (30 cm) while continuing to control the bleeding.
+
+---
+Scenario: Severe Burns
+Description: A person has a deep or large-area burn injury.
+Steps:
+1. Ensure your own safety and remove the person from the heat source.
+2. Call emergency medical services immediately (911/999/000).
+3. Cool the burn immediately under cool or lukewarm running water for at least 20 minutes. Do not use ice or butter.
+4. Gently remove any clothing or jewelry from the burn area, unless it is stuck to the skin.
+5. Loosely cover the cooled burn with a non-stick, sterile dressing or clean, non-fluffy cloth to prevent infection.
+
+---
+Scenario: Choking (Adult)
+Description: A person cannot breathe, speak, or cough forcefully due to a blocked airway.
+Steps:
+1. Ask the person, "Are you choking?" and encourage them to cough forcefully.
+2. If coughing fails, perform up to 5 sharp back blows between the shoulder blades.
+3. If still choking, perform up to 5 abdominal thrusts (Heimlich maneuver).
+4. Alternate between 5 back blows and 5 abdominal thrusts until the object is dislodged or the person becomes unconscious.
+5. If the person becomes unconscious, gently lower them to the ground and begin CPR.
+
+---
+Scenario: Fainting
+Description: A person suddenly loses consciousness briefly due to a temporary drop in blood flow to the brain.
+Steps:
+1. Gently lower the person to the ground and lay them flat on their back.
+2. Elevate their legs about 12 inches (30 cm) to improve blood flow to the brain (unless a head injury is suspected).
+3. Loosen any tight clothing around their neck, chest, or waist, and ensure they have plenty of fresh air.
+4. If they do not recover quickly (within a minute) or if they hit their head during the fall, call emergency medical services.
+5. Once conscious, let them rest before slowly helping them to sit up; offer water but only if they are fully alert.
+
+---
+Scenario: Dog Bite
+Description: A person is bitten by a dog and the skin is broken.
+Steps:
+1. Ensure your safety and separate the person from the dog.
+2. If bleeding is minor, thoroughly wash the wound with mild soap and warm, running water for 5 to 10 minutes.
+3. Control any significant bleeding by applying gentle, direct pressure with a clean cloth.
+4. Apply an antibiotic ointment and cover the wound with a clean, sterile bandage.
+5. Seek immediate medical attention for any bite that breaks the skin to assess for stitches, tetanus, and rabies risk.
+
+---
+Scenario: Electric Shock
+Description: Person received an electric shock.
+Steps:
+1. Do not touch the person directly. Call emergency medical services immediately (911/999/000).
+2. If possible and safe, switch off the power source (e.g., circuit breaker or main fuse).
+3. If the power cannot be turned off, use a long, dry, non-conductive object (wood, plastic) to push the person away from the source.
+4. Once separated, check for breathing and pulse. Begin CPR immediately if the person is unresponsive and not breathing.
+5. Treat any burn injuries with cool, running water and keep the person still until medical help arrives.
+
+---
+Scenario: Snake Bite
+Description: Person bitten by a snake (treat all as venomous unless certain otherwise).
+Steps:
+1. Call emergency medical services immediately (911/999/000).
+2. Keep the person calm and still; have them lie down with the bitten limb immobilized to minimize venom spread.
+3. Remove any jewelry or tight clothing from the bitten limb.
+4. Immobilize the limb (e.g., with a splint or firm bandage—do not use a tourniquet or cut blood flow).
+5. Do not wash the wound, cut the wound, attempt to suck out the venom, or apply ice. Transport to the hospital immediately.
+
+---
+Scenario: Heart Attack
+Description: Person feels severe chest pain that may spread to the arms, neck, or jaw, often accompanied by shortness of breath or nausea.
+Steps:
+1. Call emergency medical services immediately (911/999/000).
+2. Help the person sit down in a comfortable position (sitting upright and leaning back is often best).
+3. Loosen tight clothing.
+4. If the person is conscious, not allergic to aspirin, and does not have a condition that prevents its use, give them one adult aspirin (300 mg) to chew slowly.
+5. Monitor breathing and responsiveness. Be prepared to perform CPR if they become unconscious and stop breathing.
+
+---
+Scenario: Fracture/Broken Bone
+Description: A bone is visibly deformed or the person cannot move the limb due to severe pain or trauma.
+Steps:
+1. Call emergency medical services (911/999/000).
+2. Immobilize the injured area by supporting it above and below the fracture site.
+3. Do not attempt to realign the bone or push protruding bones back in.
+4. Apply ice wrapped in a cloth to reduce swelling.
+5. Treat for shock by keeping the person warm and calm until help arrives.
+
+---
+Scenario: Sprain/Strain
+Description: Pain, swelling, and bruising, usually in the ankle, wrist, or knee after twisting or overextending.
+Steps:
+1. Remember R.I.C.E. (Rest, Ice, Compression, Elevation).
+2. Rest the injured limb and avoid putting weight on it.
+3. Apply ice wrapped in a cloth for 15-20 minutes every 2-3 hours.
+4. Compress the area using a soft bandage, but not so tightly that it causes numbness.
+5. Elevate the limb above the level of the heart to reduce swelling.
+
+---
+Scenario: Severe Allergic Reaction (Anaphylaxis)
+Description: Rapid onset of symptoms like difficulty breathing, swelling of the face/throat, rash/hives, or dizziness after exposure to an allergen.
+Steps:
+1. Call emergency medical services immediately (911/999/000).
+2. If available, help the person use their epinephrine auto-injector (EpiPen) by pressing it firmly against the outer thigh.
+3. Help the person sit up in a comfortable position, ideally with their legs elevated (if not worsening breathing).
+4. Loosen any tight clothing.
+5. Monitor breathing and be prepared to start CPR if they stop breathing.
+
+---
+Scenario: Stroke
+Description: Sudden numbness or weakness of the face, arm, or leg (especially on one side of the body), confusion, trouble speaking, or sudden severe headache.
+Steps:
+1. Call emergency medical services immediately (911/999/000); time is critical.
+2. Use the F.A.S.T. test: Face drooping, Arm weakness, Speech difficulty, Time to call emergency.
+3. Note the exact time symptoms began.
+4. Lay the person on their back with head slightly raised.
+5. Do not give them anything to eat or drink.
+
+---
+Scenario: Heat Exhaustion/Heat Stroke
+Description: Exhaustion: Heavy sweating, paleness, muscle cramps, dizziness. Stroke: Body temperature >104°F (40°C), confusion, no sweating.
+Steps:
+1. Move the person to a cooler place immediately.
+2. Loosen clothing and lay the person flat; elevate their feet slightly.
+3. Give sips of cool water or a sports drink if conscious and not nauseous (for exhaustion only).
+4. For Heat Stroke (if confused or unconscious), call emergency services immediately and apply ice packs to the neck, armpits, and groin.
+
+---
+Scenario: Hypothermia
+Description: Core body temperature drop (e.g., from cold exposure), symptoms include shivering, slurred speech, confusion, and loss of coordination.
+Steps:
+1. Call emergency medical services (911/999/000).
+2. Move the person out of the cold and remove any wet clothing.
+3. Warm the person slowly by wrapping them in dry blankets (including their head) and placing dry, warm compresses only on the chest, neck, and groin.
+4. If conscious, give them warm (non-alcoholic, non-caffeinated) drinks.
+5. Do not rub or massage the skin.
+---
+
+Scenario: Chemical Ingestion (Poisoning)
+Description: A person has swallowed a toxic substance (e.g., household cleaner, bleach, strong acid/alkali) and is showing symptoms like burning throat, vomiting, or difficulty breathing.
+Steps:
+1. Call emergency medical services immediately (911/999/000) or a local Poison Control Center.
+2. Ensure the person is breathing. If the person is unconscious or not breathing, begin CPR.
+3. Keep the person calm and seated or lying on their side (recovery position) if drowsy or vomiting.
+4. If the substance is known, try to save the container to show medical personnel, as it identifies the chemical ingested.
+5. Do NOT try to make the person vomit, and do NOT give them water, milk, or food unless specifically instructed to do so by emergency operators or Poison Control.
