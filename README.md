@@ -6,7 +6,7 @@
 
 <br>
 
-<p> Install the requirements using "pip install -r requirements.txt" </p>
+<p> Install the requirements using <code> pip install -r requirements.txt </code> </p>
 
 <br>
 
@@ -20,5 +20,5 @@ To initialize the vector store, run the following command in your terminal:
 
 <br>
 
-<p> At last,run "streamlit run app.py " </p>
+<p> To run the app type <code> streamlit run app.py </code> </p>
 
