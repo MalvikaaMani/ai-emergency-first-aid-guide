@@ -10,7 +10,13 @@
 
 <br>
 
-<p> After that run "python backend/embedding\_engine.py" </p>
+<p>
+
+To initialize the vector store, run the following command in your terminal: 
+
+<code>python backend/embedding\_engine.py</code>.
+
+</p>
 
 <br>
 
